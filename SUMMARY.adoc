@@ -5,3 +5,4 @@
 . link:module01/LESSON01.adoc[Урок 1]
 . link:module01/LESSON02.adoc[Урок 2]
 . link:module01/LESSON03.adoc[Урок 3]
+. link:module01/LESSON04.adoc[Урок 4]
