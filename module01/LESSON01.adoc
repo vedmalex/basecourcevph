@@ -15,7 +15,9 @@ samAnametatpazubhirnarANAm | +
 dharmo hi teSAmadhiko vizeSo +
 dharmeNa hInAH pazubhiH samAnAH ||
 --
-пословный перевод: 
+
+**пословный перевод:** 
+
 AhAra - еда, процесс принятия пищи;
 nidrA - сон;
 bhaya - страх; 
@@ -24,24 +26,24 @@ ca - and;
 samAnam - равное, одинаковое;
 etat - это;
 pashubhir ->  pashubhiH : [как] животными
-pashu -> animal. 
 
 [TIP]
-этимология слова : pAsha -> сеть, pashu -> тот кто находиться в сетях [иллюзии и привязан к материи] поскольку его не интересует духовное развитие.
+pashu -> этимология слова : pAsha -> сеть, pashu -> тот кто находиться в сетях [иллюзии и привязан к материи] поскольку его не интересует духовное развитие.
 
-narANAm - of humans
-i.e. these acts of humans is same as by animals.
+narANAm - людей, т.е. люди и животные занимаются такой же деятельностью.
 
-dharmo = dharmaH = right conduct
-hi = only
-teShAm = of them (humans)
-adhiko = adhikaH = excess, more
-visheSho = visheShaH = special
-dharmeNa hInAH = without dharma
-pashubhiH = [as] by animals
-samAnAH = similar, like,
-
+dharmo -> dharmaH - правильное поведение
+hi - только
+teShAm = их (людей)
+adhiko -> adhikaH - более, в избытке
+visheSho -> visheShaH - Отличается, используется для выделения из других, характеризует
+dharmeNa hInAH -> без дхармы
+pashubhiH -> [как] животными
+samAnAH -> похожие
+[quote, Хитопадеша]
+--
 «Такие виды деятельности, как еда, сон, совокупление и оборона, присущи как животным, так и людям. Человек считается выше животного только тогда, когда он вопрошает об Абсолютной Истине, в противном случае он ничем от животного не отличается».
+--
 
 Кто-то может возразить: «А я не страдаю, у меня всё отлично!» Но так ли это на самом деле? Разве мы не испытываем страдания от:
 
