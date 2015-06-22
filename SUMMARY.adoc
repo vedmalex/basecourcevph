@@ -1,6 +1,6 @@
 = Summary
 
-. link:introduction.md[introduction]
+. introduction
 . link:introduction.md[introduction]
 . link:vvedenie.md[Введение]
 
