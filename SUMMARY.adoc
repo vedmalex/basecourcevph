@@ -10,3 +10,4 @@
 .. link:module01/LESSON05.adoc[Урок 5]
 .. link:module01/LESSON06.adoc[Урок 6]
 .. link:module01/LESSON07.adoc[Урок 7]
+.. link:module01/LESSON08.adoc[Урок 8]
