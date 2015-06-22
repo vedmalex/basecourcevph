@@ -2,6 +2,6 @@
 
 . link:introduction.md[introduction]
 . link:vvedenie.md[Введение]
-. link:module01/LESSON01.adoc
+. link:module01/LESSON01.adoc[Урок 1]
 
 
