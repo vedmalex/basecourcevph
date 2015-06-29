@@ -12,7 +12,7 @@
 .. link:module01/LESSON06.adoc[Урок 6]
 .. link:module01/LESSON07.adoc[Урок 7]
 .. link:module01/LESSON08.adoc[Урок 8]
-. Модуль 2, Часть 1
+. link:modul_2,_chast_1.adoc[Модуль 2, Часть 1]
 .. link:module02/LESSON09.adoc[Урок 9]
 .. link:module02/LESSON10.adoc[Урок 10]
 .. link:module02/LESSON11.adoc[Урок 11]
