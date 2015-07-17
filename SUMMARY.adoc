@@ -19,7 +19,7 @@
 .. link:module02/LESSON12.adoc[Урок 12]
 .. link:module02/LESSON13.adoc[Урок 13]
 .. link:module02/LESSON14.adoc[Урок 14]
-. Модуль 2, Часть 2
+. link:modul_2,_chast_2.adoc[Модуль 2, Часть 2]
 .. link:module02/LESSON15.adoc[Урок 15]
 .. link:module02/LESSON16.adoc[Урок 16]
 .. link:module02/LESSON17.adoc[Урок 17]
