@@ -28,7 +28,7 @@
 .. link:module02/LESSON20.adoc[Урок 20]
 .. link:module02/LESSON21.adoc[Урок 21]
 .. link:module02/LESSON22.adoc[Урок 22]
-. Модуль 2, Часть 3
+. link:modul_2,_chast_3.adoc[Модуль 2, Часть 3]
 .. link:module02/LESSON23.adoc[Урок 23]
 .. link:module02/LESSON24.adoc[Урок 24]
 .. link:module02/LESSON25.adoc[Урок 25]
